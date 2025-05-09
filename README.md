@@ -36,20 +36,19 @@ The Business Analyst Job Finder provides an interactive platform for users to ex
 * Receive real-time alerts on job market and industry trends.
 
 ## DashBoard 
-![Screenshot of dashboard Image](dashboard.png)
+Explore the live dashboard here:  
+🔗 [Click to View Tableau Dashboard](https://public.tableau.com/app/profile/priyanka.bandaru/viz/projectdashboard_v2024_4/SkillsEducation?publish=yes)
 
 ## Contributing
 
 Contributions are welcome!
 
-If you'd like to contribute:
+Although we have completed the initial development of the **Business Analyst Employment Dashboard**, we encourage future enhancements. If you'd like to contribute:
 
 1.  Fork the repository.
 2.  Create a branch for your changes.
 3.  Submit a pull request with your proposed changes.
 
-We're still working on our project , so please discuss your contributions with us.
-
 ## License
-We are student team (Team 18) working on this project currently pursuing masters in Information systems at saint louis university.
+We have developed the **Business Analyst Employment Dashboard** as **Team 18**, a student group currently pursuing a Master’s in Information Systems at **Saint Louis University**. This project was completed as part of our academic coursework.
 
