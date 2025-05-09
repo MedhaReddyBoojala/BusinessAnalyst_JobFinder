@@ -39,6 +39,14 @@ The Business Analyst Job Finder provides an interactive platform for users to ex
 Explore the live dashboard here:  
 🔗 [Click to View Tableau Dashboard](https://public.tableau.com/app/profile/priyanka.bandaru/viz/projectdashboard_v2024_4/SkillsEducation?publish=yes)
 
+## 📄 Documents
+
+The following supporting documents are part of this project:
+
+- 📘 **[Business_Analyst.pdf](Business_Analyst.pdf)** – A detailed PDF with insights and data-related analysis.
+- 🌐 **[Business_Analyst.html](Business_Analyst.html)** – HTML export of our analysis notebook for browser viewing.
+- 📊 **[Copy of modified_ba1 (1).xlsx](Copy%20of%20modified_ba1%20(1).xlsx)** – Dataset used for the dashboard with data cleaning and transformation.
+
 ## Contributing
 
 Contributions are welcome!
